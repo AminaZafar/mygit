@@ -1,0 +1,2 @@
+# mygit
+check git
